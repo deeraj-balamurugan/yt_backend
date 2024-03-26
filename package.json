@@ -1,0 +1,11 @@
+{
+  "name": "yt_backend",
+  "version": "1.0.0",
+  "description": "youtube backend like structure setup based on - chai aur code YT channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deeraj_balamurugan",
+  "license": "ISC"
+}
